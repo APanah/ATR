@@ -20,7 +20,7 @@ source $PNH/.bash_profile
 go version
 
 --------------------------------------
-cd $ATR
+cd $PNH
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
