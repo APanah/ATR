@@ -24,7 +24,7 @@ cd $PNH
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
-git checkout v4.3.9
+git checkout v4.4.0
 make install
 
 -------------------------------------------------
